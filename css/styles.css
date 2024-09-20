@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bgimage{
+    position: absolute;
+}
+
+.cabtopo{
+    position: absolute;
+    z-index: 1;
+}
